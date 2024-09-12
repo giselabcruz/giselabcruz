@@ -13,8 +13,3 @@ Desde temprana edad, he cultivado el aprendizaje. Este camino me ha permitido al
 Más allá de mi formación universitaria, mi curiosidad intelectual me impulsa a seguir explorando y profundizando en nuevas tecnologías y herramientas avanzadas. Disfruto desentrañando los secretos que los datos pueden revelar, transformando cifras en historias significativas y soluciones innovadoras a problemas complejos.
 
 
-✨ Mi Filosofía: Datos para Transformar
-
-Creo firmemente en el poder transformador de los datos. La habilidad de comprenderlos y manipularlos adecuadamente es esencial para enfrentar los desafíos actuales, desde optimizar procesos hasta descubrir patrones ocultos que pueden cambiar la forma en que entendemos el mundo.
-
-
