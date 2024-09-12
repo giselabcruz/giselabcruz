@@ -12,8 +12,5 @@ Durante mi formación, he liderado el desarrollo de un asesor de viajes 🏝️ 
 	•	🧩 Arquitectura Modular: Basado en los principios de Arquitectura Limpia 🏗️, que garantiza flexibilidad, escalabilidad y mantenimiento eficiente. Incluye el patrón Publisher/Subscriber con ActiveMQ para la gestión de eventos y el Patrón de Repositorio para operaciones de datos eficientes.
 
 
-🧠 En Búsqueda del Conocimiento
-
-Más allá de mi formación universitaria, mi curiosidad intelectual me impulsa a seguir explorando y profundizando en nuevas tecnologías y herramientas avanzadas. Disfruto desentrañando los secretos que los datos pueden revelar, transformando cifras en historias significativas y soluciones innovadoras a problemas complejos.
 
 
