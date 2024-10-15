@@ -1,6 +1,6 @@
-## 🌿 Bienvenidos
+## 🌿 Welcome!
 
-A veces programo.
+Sometimes I code.
 
 
 
