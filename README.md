@@ -6,7 +6,7 @@ I’ve also worked with event-driven systems using message brokers.
 While backend is my main thing, I’ve also built some frontend with React Native and Vite, using JavaScript and TypeScript.
 
 I care about clean code and good architecture.
-I’m currently practicing DDD with katas in C#, a language I’m enjoying learning as part of the .NET ecosystem.
+I’m currently practicing TDD with katas in C#, a language I’m enjoying learning as part of the .NET ecosystem.
 
 I use Docker to keep my environments clean and consistent.
 For planning, I like using Kanban boards to stay organized and track progress.
