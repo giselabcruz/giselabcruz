@@ -11,6 +11,8 @@ I’m currently practicing TDD with katas in C#, a language I’m enjoying learn
 I use Docker to keep my environments clean and consistent.
 For planning, I like using Kanban boards to stay organized and track progress.
 
+Lately, I’ve been diving into Model-Context Protocol. I find it fascinating how it connects tools, code, and AI in a practical way.
+
 So, yes, sometimes I code.
 
 ## Here you can see my most used languages 
