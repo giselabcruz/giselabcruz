@@ -1,5 +1,8 @@
 # 🌿 Welcome to my corner!
 
+### 🎧 Currently vibing to
+[![Now Playing](./.png)](https://youtu.be/Qg-KPfqDKyk)
+
 I’ve built RESTful APIs using Node.js and Express, following good practices like TDD. I’ve worked with both relational databases like MySQL and SQLite, and non-relational ones like MongoDB and Neo4j.
 I’ve also worked with event-driven systems using message brokers.
 
