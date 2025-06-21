@@ -1,4 +1,8 @@
-# 🌿 Welcome to my corner!
+<h1 align="center"><b>🌿 Welcome to my corner!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=700&lines=🧪+Backend+%7C+Java+%7C+.NET+%7C+Python;🗄️+Databases+%7C+MongoDB+%7C+Neo4j+%7C+MySQL;⚙️+Interested+in+DevOps+%7C+GitHub+Actions;🌿+Always+learning+%7C+MCP" alt="Typing SVG" />
+</p>
 
 I’ve built RESTful APIs using Node.js and Express, following good practices like TDD. I’ve worked with both relational databases like MySQL and SQLite, and non-relational ones like MongoDB and Neo4j.
 I’ve also worked with event-driven systems using message brokers.
@@ -19,6 +23,10 @@ So, yes, sometimes I code.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&langs_count=8)
 
-### 🎧 Currently vibing to
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=400&lines=🎧+Currently+vibing+to..." alt="Now playing" />
+</p>
+
+
 ![image](https://github.com/user-attachments/assets/e58fe927-6cb4-487d-8c3d-9024c9abd9b2)
 (https://youtu.be/Qg-KPfqDKyk)
