@@ -24,9 +24,6 @@ So, yes, sometimes I code.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&langs_count=8)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=400&lines=🎧+Currently+vibing+to..." alt="Now playing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=00FF7F&center=true&vCenter=true&width=400&lines=🎧+Currently+vibing+to...;🎶Badge+and+Gun;(https://youtu.be/Qg-KPfqDKyk)" alt="Now playing" />
 </p>
 
-
-![image](https://github.com/user-attachments/assets/e58fe927-6cb4-487d-8c3d-9024c9abd9b2)
-(https://youtu.be/Qg-KPfqDKyk)
