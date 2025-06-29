@@ -63,8 +63,9 @@ So, yes, sometimes I code.
   <img src="https://img.shields.io/badge/Event%20Driven-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TDD-%232C2255.svg?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MCP-%23000000.svg?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Scrum-%2300A8E8.svg?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kanban-%237A4EAB.svg?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
-
 
 
 ## Here you can see my most used languages 
