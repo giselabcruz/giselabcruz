@@ -1,6 +1,16 @@
 <h1 align="center"><b>🌿 Welcome to my corner!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giselabcruz&show_icons=true&title_color=50C878&icon_color=50C878&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="Gisela's GitHub Stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giselabcruz&theme=dark&ring=50C878&fire=50C878&currStreakLabel=50C878&background=0d1117&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=github_dark" alt="GitHub Summary Card"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Romans&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=700&lines=About+me..." alt="Typing SVG" />
 </p>
 
@@ -68,12 +78,8 @@ So, yes, sometimes I code.
 </p>
 
 
-## Here you can see my most used languages 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&langs_count=8)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&layout=compact&title_color=50C878&text_color=ffffff&bg_color=0d1117&hide_border=true)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Romans&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=700&lines=See+you!" alt="Typing SVG" />
 </p>
-
