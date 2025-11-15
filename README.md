@@ -112,16 +112,16 @@ I’m currently learning and going deeper into:
 ## 🧠 Methodologies & Interests
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TDD-8B4513?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BDD-8B4513?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-8B4513?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-DAA520?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Microservices-DAA520?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-8B4513?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-DAA520?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Observability-8B4513?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kanban-DAA520?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DevOps%20Mindset-8B4513?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TDD-8B4513?style=for-the-badge&logo=testcafe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BDD-8B4513?style=for-the-badge&logo=cucumber&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-8B4513?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-DAA520?style=for-the-badge&logo=apache-kafka&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microservices-DAA520?style=for-the-badge&logo=docker&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-8B4513?style=for-the-badge&logo=plex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-DAA520?style=for-the-badge&logo=github-actions&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Observability-8B4513?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kanban-DAA520?style=for-the-badge&logo=trello&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DevOps%20Mindset-8B4513?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
