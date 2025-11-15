@@ -18,7 +18,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Romans&duration=3000&pause=1000&color=50C878&center=true&vCenter=true&width=700&lines=About+me..." />
 </p>
 
-### About me
 
 I enjoy building backend systems and making things run smoothly behind the scenes.  
 I’ve worked with REST APIs using Node.js, Express, Java and Python, and I’m comfortable with both relational databases (MySQL, SQLite) and non-relational ones (MongoDB, Neo4j).
