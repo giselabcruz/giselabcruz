@@ -5,17 +5,16 @@
 <h1 align="center"><b>Welcome to my corner!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giselabcruz&show_icons=true&title_color=1E90FF&icon_color=1E90FF&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giselabcruz&theme=dark&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&background=0d1117&hide_border=true" height="150"/>
-</p>
-
-<!-- Commit/activity summary card in blue theme -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giselabcruz&show_icons=true&title_color=DAA520&icon_color=DAA520&text_color=ffffff&bg_color=0d1117&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giselabcruz&theme=dark&ring=DAA520&fire=DAA520&currStreakLabel=DAA520&background=0d1117&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Romans&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=About+me..." />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=maroongold" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Romans&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=700&lines=About+me..." />
 </p>
 
 I enjoy building backend systems and making things run smoothly behind the scenes.  
@@ -35,7 +34,7 @@ I’m currently learning and going deeper into:
 - <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 - <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-- <img src="https://img.shields.io/badge/Event%20Driven%20Systems-1E90FF?style=for-the-badge"/>
+- <img src="https://img.shields.io/badge/Event%20Driven%20Systems-DAA520?style=for-the-badge"/>
 
 ---
 
@@ -113,27 +112,27 @@ I’m currently learning and going deeper into:
 ## 🧠 Methodologies & Interests
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TDD-%232C2255.svg?style=for-the-badge&logo=testcafe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BDD-7952B3?style=for-the-badge&logo=cucumber&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-1E90FF?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-1E90FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-1E90FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Observability-1E90FF?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kanban-1E90FF?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps%20Mindset-1E90FF?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TDD-8B4513?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BDD-8B4513?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-8B4513?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-DAA520?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microservices-DAA520?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-8B4513?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-DAA520?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Observability-8B4513?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kanban-DAA520?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DevOps%20Mindset-8B4513?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </p>
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&layout=compact&title_color=1E90FF&text_color=ffffff&bg_color=0d1117&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&layout=compact&title_color=DAA520&text_color=ffffff&bg_color=0d1117&hide_border=true)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Pacman" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Romans&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=See+you!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Romans&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=700&lines=See+you!" />
 </p>
