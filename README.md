@@ -6,16 +6,23 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-
 <!-- ======================= STATS ======================= -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giselabcruz&show_icons=true&title_color=38BDF8&icon_color=C084FC&text_color=F8FAFC&bg_color=0F172A&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giselabcruz&theme=dark&ring=C084FC&fire=38BDF8&currStreakLabel=38BDF8&background=0F172A&hide_border=true" height="150"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=giselabcruz&show_icons=true&theme=merko&hide_border=true"
+    height="150"
+  />
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&layout=compact&theme=merko&hide_border=true"
+  height="150"
+/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=vue"
+  />
 </p>
 
 <p align="center">
@@ -133,8 +140,6 @@ I’m currently learning and going deeper into:
 </p>
 
 ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&layout=compact&title_color=38BDF8&text_color=F8FAFC&bg_color=0F172A&hide_border=true)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="Pacman" />
