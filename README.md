@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=About+me..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=About+me..." />
 </p>
 
 ---
@@ -153,5 +153,8 @@ I’m currently learning and going deeper into:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=See+you!" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=See+you!"
+  />
 </p>
+
