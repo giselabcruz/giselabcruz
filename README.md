@@ -4,7 +4,7 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=giselabcruz&style=for-the-badge&color=4CAF50" 
+    src="https://komarev.com/ghpvc/?username=giselabcruz&style=for-the-badge&color=7AA2F7" 
     alt="Profile Views"
   />
 </p>
@@ -16,46 +16,56 @@
 <!-- ======================= STATS ======================= -->
 
 <p align="center">
+  <!-- Racha de contribuciones -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=giselabcruz&show_icons=true&theme=default&hide_border=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselabcruz&layout=compact&theme=default&hide_border=true"
-    height="150"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=giselabcruz&theme=tokyonight&hide_border=true"
+    height="165"
   />
 </p>
 
 <p align="center">
+  <!-- Resumen del perfil -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=vue"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=tokyonight"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=About+me..." />
+  <!-- Lenguajes por repos y commits -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giselabcruz&theme=tokyonight"
+    height="180"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giselabcruz&theme=tokyonight"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=About+me..." />
 </p>
 
 ---
 
 I enjoy building backend systems and making things run smoothly behind the scenes.  
-I’ve worked with REST APIs using Node.js, Express, Java and Python, and I’m comfortable with both relational databases (MySQL, SQLite) and non-relational ones (MongoDB, Neo4j).
+I've worked with REST APIs using Node.js, Express, Java and Python, and I'm comfortable with both relational databases (MySQL, SQLite) and non-relational ones (MongoDB, Neo4j).
 
-Backend is where I feel most at home, but I’ve also built some frontend with React + Vite when needed.
+Backend is where I feel most at home, but I've also built some frontend with React + Vite when needed.
 
 I like writing clean, simple and maintainable code.  
-Right now, I’m practicing TDD with C# and focusing on improving my backend design and architecture skills.
+Right now, I'm practicing TDD with C# and focusing on improving my backend design and architecture skills.
 
-I use Docker daily, stay organized with Agile & Kanban, and I’m always looking for ways to improve my workflow.
+I use Docker daily, stay organized with Agile & Kanban, and I'm always looking for ways to improve my workflow.
 
-I’m currently learning and going deeper into:
+I'm currently learning and going deeper into:
 
-- <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazon-aws&logoColor=38BDF8"/>
-- <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=java&logoColor=C084FC"/>
-- <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=38BDF8"/>
-- <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=C084FC"/>
-- <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=38BDF8"/>
-- <img src="https://img.shields.io/badge/Event%20Driven%20Systems-1E293B?style=for-the-badge&logoColor=C084FC"/>
+- <img src="https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazon-aws&logoColor=7AA2F7"/>
+- <img src="https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=openjdk&logoColor=BB9AF7"/>
+- <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=7AA2F7"/>
+- <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=BB9AF7"/>
+- <img src="https://img.shields.io/badge/Kubernetes-1A1B26?style=for-the-badge&logo=kubernetes&logoColor=7AA2F7"/>
+- <img src="https://img.shields.io/badge/Event%20Driven%20Systems-1A1B26?style=for-the-badge&logoColor=BB9AF7"/>
 
 ---
 
@@ -72,11 +82,11 @@ I’m currently learning and going deeper into:
 ## ☁️ Cloud (AWS)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazon-aws&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/S3-1E293B?style=for-the-badge&logo=amazon-s3&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/SNS-0F172A?style=for-the-badge&logo=amazon-aws&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/SQS-1E293B?style=for-the-badge&logo=amazon-aws&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/EC2-0F172A?style=for-the-badge&logo=amazon-ec2&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazon-aws&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/S3-1A1B26?style=for-the-badge&logo=amazon-s3&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/SNS-1A1B26?style=for-the-badge&logo=amazon-aws&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/SQS-1A1B26?style=for-the-badge&logo=amazon-aws&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/EC2-1A1B26?style=for-the-badge&logo=amazon-ec2&logoColor=7AA2F7"/>
 </p>
 
 ---
@@ -84,12 +94,12 @@ I’m currently learning and going deeper into:
 ## 🖥️ Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-1E293B?style=for-the-badge&logo=java&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/.NET-0F172A?style=for-the-badge&logo=dotnet&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/C%23-1E293B?style=for-the-badge&logo=c-sharp&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=openjdk&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/.NET-1A1B26?style=for-the-badge&logo=dotnet&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/C%23-1A1B26?style=for-the-badge&logo=c-sharp&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7"/>
 </p>
 
 ---
@@ -97,9 +107,9 @@ I’m currently learning and going deeper into:
 ## ⚙️ Frameworks & Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Express.js-1E293B?style=for-the-badge&logo=express&logoColor=C084FC"/>
+  <img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/FastAPI-1A1B26?style=for-the-badge&logo=fastapi&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Express.js-1A1B26?style=for-the-badge&logo=express&logoColor=BB9AF7"/>
 </p>
 
 ---
@@ -107,14 +117,14 @@ I’m currently learning and going deeper into:
 ## 🛠️ Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1E293B?style=for-the-badge&logo=github-actions&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visual-studio-code&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Rider-1E293B?style=for-the-badge&logo=jetbrains&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/PyCharm-0F172A?style=for-the-badge&logo=pycharm&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Vite-1E293B?style=for-the-badge&logo=vite&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0F172A?style=for-the-badge&logo=intellij-idea&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Docker-1E293B?style=for-the-badge&logo=docker&logoColor=C084FC"/>
+  <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-1A1B26?style=for-the-badge&logo=github-actions&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/VS%20Code-1A1B26?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Rider-1A1B26?style=for-the-badge&logo=jetbrains&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/PyCharm-1A1B26?style=for-the-badge&logo=pycharm&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Vite-1A1B26?style=for-the-badge&logo=vite&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-1A1B26?style=for-the-badge&logo=intellij-idea&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=BB9AF7"/>
 </p>
 
 ---
@@ -122,10 +132,10 @@ I’m currently learning and going deeper into:
 ## 🗃️ Databases
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-1E293B?style=for-the-badge&logo=mysql&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/SQLite-0F172A?style=for-the-badge&logo=sqlite&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/MongoDB-1E293B?style=for-the-badge&logo=mongodb&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/Neo4j-0F172A?style=for-the-badge&logo=neo4j&logoColor=38BDF8"/>
+  <img src="https://img.shields.io/badge/MySQL-1A1B26?style=for-the-badge&logo=mysql&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/SQLite-1A1B26?style=for-the-badge&logo=sqlite&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/Neo4j-1A1B26?style=for-the-badge&logo=neo4j&logoColor=7AA2F7"/>
 </p>
 
 ---
@@ -133,17 +143,17 @@ I’m currently learning and going deeper into:
 ## 🧠 Methodologies & Interests
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TDD-1E293B?style=for-the-badge&logo=testcafe&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/BDD-0F172A?style=for-the-badge&logo=cucumber&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1E293B?style=for-the-badge&logo=buffer&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-0F172A?style=for-the-badge&logo=apache-kafka&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Microservices-1E293B?style=for-the-badge&logo=docker&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-0F172A?style=for-the-badge&logo=plex&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-1E293B?style=for-the-badge&logo=github-actions&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/Observability-0F172A?style=for-the-badge&logo=grafana&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Kanban-1E293B?style=for-the-badge&logo=trello&logoColor=C084FC"/>
-  <img src="https://img.shields.io/badge/DevOps%20Mindset-0F172A?style=for-the-badge&logo=linux&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Kubernetes-1E293B?style=for-the-badge&logo=kubernetes&logoColor=C084FC"/>
+  <img src="https://img.shields.io/badge/TDD-1A1B26?style=for-the-badge&logo=testcafe&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/BDD-1A1B26?style=for-the-badge&logo=cucumber&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1A1B26?style=for-the-badge&logo=buffer&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-1A1B26?style=for-the-badge&logo=apache-kafka&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Microservices-1A1B26?style=for-the-badge&logo=docker&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-1A1B26?style=for-the-badge&logo=plex&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-1A1B26?style=for-the-badge&logo=github-actions&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/Observability-1A1B26?style=for-the-badge&logo=grafana&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Kanban-1A1B26?style=for-the-badge&logo=trello&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/DevOps%20Mindset-1A1B26?style=for-the-badge&logo=linux&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Kubernetes-1A1B26?style=for-the-badge&logo=kubernetes&logoColor=BB9AF7"/>
 </p>
 
 ---
@@ -154,7 +164,6 @@ I’m currently learning and going deeper into:
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=See+you!"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=See+you!"
   />
 </p>
-
