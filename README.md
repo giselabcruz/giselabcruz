@@ -56,7 +56,7 @@ Backend is where I feel most at home, but I've also built some frontend with Rea
 I like writing clean, simple and maintainable code.  
 Right now, I'm practicing TDD with C# and focusing on improving my backend design and architecture skills.
 
-I use Docker daily, stay organized with Agile & Kanban, and I'm always looking for ways to improve my workflow.
+I use Docker, stay organized with Agile & Kanban, and I'm always looking for ways to improve my workflow.
 
 I'm currently learning and going deeper into:
 
