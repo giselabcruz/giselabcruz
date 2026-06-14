@@ -16,14 +16,6 @@
 <!-- ======================= STATS ======================= -->
 
 <p align="center">
-  <!-- Racha de contribuciones -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=giselabcruz&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
   <!-- Resumen del perfil -->
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=tokyonight"
