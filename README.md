@@ -4,12 +4,13 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=giselabcruz&style=for-the-badge&color=7AA2F7" 
+    src="https://komarev.com/ghpvc/?username=giselabcruz&style=for-the-badge&color=D4AF37" 
     alt="Profile Views"
   />
 </p>
 
-<h1 align="center"><b>Welcome to my corner!</b> 
+<h1 align="center">
+  <font color="#D4AF37"><b>Welcome to my corner!</b></font> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -18,24 +19,24 @@
 <p align="center">
   <!-- Resumen del perfil -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giselabcruz&theme=github_dark"
   />
 </p>
 
 <p align="center">
   <!-- Lenguajes por repos y commits -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giselabcruz&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giselabcruz&theme=github_dark"
     height="180"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giselabcruz&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giselabcruz&theme=github_dark"
     height="180"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=About+me..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=About+me...;Building+Future-Ready+Backend+Systems;Exploring+Distributed+Architectures" />
 </p>
 
 ---
@@ -52,12 +53,12 @@ I use Docker, stay organized with Agile & Kanban, and I'm always looking for way
 
 I'm currently learning and going deeper into:
 
-- <img src="https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazon-aws&logoColor=7AA2F7"/>
-- <img src="https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=openjdk&logoColor=BB9AF7"/>
-- <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=7AA2F7"/>
-- <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=BB9AF7"/>
-- <img src="https://img.shields.io/badge/Kubernetes-1A1B26?style=for-the-badge&logo=kubernetes&logoColor=7AA2F7"/>
-- <img src="https://img.shields.io/badge/Event%20Driven%20Systems-1A1B26?style=for-the-badge&logoColor=BB9AF7"/>
+- <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=D4AF37&labelColor=000000"/>
+- <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFD700&labelColor=000000"/>
+- <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D4AF37&labelColor=000000"/>
+- <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FFD700&labelColor=000000"/>
+- <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=D4AF37&labelColor=000000"/>
+- <img src="https://img.shields.io/badge/Event%20Driven%20Systems-0D1117?style=for-the-badge&logoColor=FFD700&labelColor=000000"/>
 
 ---
 
@@ -71,81 +72,81 @@ I'm currently learning and going deeper into:
 
 ---
 
-## ☁️ Cloud (AWS)
+## ☁️ <font color="#D4AF37">Cloud (AWS)</font>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazon-aws&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/S3-1A1B26?style=for-the-badge&logo=amazon-s3&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/SNS-1A1B26?style=for-the-badge&logo=amazon-aws&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/SQS-1A1B26?style=for-the-badge&logo=amazon-aws&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/EC2-1A1B26?style=for-the-badge&logo=amazon-ec2&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/S3-0D1117?style=for-the-badge&logo=amazon-s3&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/SNS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/SQS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/EC2-0D1117?style=for-the-badge&logo=amazon-ec2&logoColor=D4AF37"/>
 </p>
 
 ---
 
-## 🖥️ Languages
+## 🖥️ <font color="#D4AF37">Languages</font>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=openjdk&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/.NET-1A1B26?style=for-the-badge&logo=dotnet&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/C%23-1A1B26?style=for-the-badge&logo=c-sharp&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/JavaScript-1A1B26?style=for-the-badge&logo=javascript&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/TypeScript-1A1B26?style=for-the-badge&logo=typescript&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=D4AF37"/>
 </p>
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## ⚙️ <font color="#D4AF37">Frameworks & Libraries</font>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-1A1B26?style=for-the-badge&logo=react&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/FastAPI-1A1B26?style=for-the-badge&logo=fastapi&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/Express.js-1A1B26?style=for-the-badge&logo=express&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=FFD700"/>
 </p>
 
 ---
 
-## 🛠️ Tools
+## 🛠️ <font color="#D4AF37">Tools</font>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-1A1B26?style=for-the-badge&logo=git&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-1A1B26?style=for-the-badge&logo=github-actions&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/VS%20Code-1A1B26?style=for-the-badge&logo=visual-studio-code&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/Rider-1A1B26?style=for-the-badge&logo=jetbrains&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/PyCharm-1A1B26?style=for-the-badge&logo=pycharm&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/Vite-1A1B26?style=for-the-badge&logo=vite&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-1A1B26?style=for-the-badge&logo=intellij-idea&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=github-actions&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Rider-0D1117?style=for-the-badge&logo=jetbrains&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/PyCharm-0D1117?style=for-the-badge&logo=pycharm&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=FFD700"/>
 </p>
 
 ---
 
-## 🗃️ Databases
+## 🗃️ <font color="#D4AF37">Databases</font>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-1A1B26?style=for-the-badge&logo=mysql&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/SQLite-1A1B26?style=for-the-badge&logo=sqlite&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/MongoDB-1A1B26?style=for-the-badge&logo=mongodb&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/Neo4j-1A1B26?style=for-the-badge&logo=neo4j&logoColor=7AA2F7"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Neo4j-0D1117?style=for-the-badge&logo=neo4j&logoColor=D4AF37"/>
 </p>
 
 ---
 
-## 🧠 Methodologies & Interests
+## 🧠 <font color="#D4AF37">Methodologies & Interests</font>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TDD-1A1B26?style=for-the-badge&logo=testcafe&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/BDD-1A1B26?style=for-the-badge&logo=cucumber&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1A1B26?style=for-the-badge&logo=buffer&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-1A1B26?style=for-the-badge&logo=apache-kafka&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/Microservices-1A1B26?style=for-the-badge&logo=docker&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-1A1B26?style=for-the-badge&logo=plex&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-1A1B26?style=for-the-badge&logo=github-actions&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/Observability-1A1B26?style=for-the-badge&logo=grafana&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/Kanban-1A1B26?style=for-the-badge&logo=trello&logoColor=BB9AF7"/>
-  <img src="https://img.shields.io/badge/DevOps%20Mindset-1A1B26?style=for-the-badge&logo=linux&logoColor=7AA2F7"/>
-  <img src="https://img.shields.io/badge/Kubernetes-1A1B26?style=for-the-badge&logo=kubernetes&logoColor=BB9AF7"/>
+  <img src="https://img.shields.io/badge/TDD-0D1117?style=for-the-badge&logo=testcafe&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/BDD-0D1117?style=for-the-badge&logo=cucumber&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0D1117?style=for-the-badge&logo=buffer&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Event%20Driven%20Architecture-0D1117?style=for-the-badge&logo=apache-kafka&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Microservices-0D1117?style=for-the-badge&logo=docker&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Domain%20Driven%20Design-0D1117?style=for-the-badge&logo=plex&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=github-actions&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/Observability-0D1117?style=for-the-badge&logo=grafana&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Kanban-0D1117?style=for-the-badge&logo=trello&logoColor=FFD700"/>
+  <img src="https://img.shields.io/badge/DevOps%20Mindset-0D1117?style=for-the-badge&logo=linux&logoColor=D4AF37"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=FFD700"/>
 </p>
 
 ---
@@ -156,6 +157,6 @@ I'm currently learning and going deeper into:
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=See+you!"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=See+you+in+the+future!"
   />
 </p>
