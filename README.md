@@ -35,7 +35,7 @@
 
 > **Titular:** Gisela
 > **Cargo:** Data Science & Engineering
-> **Focos:** AWS, Big Data, DevOps
+> **Especialidades:** Big Data, DevOps, Cloud Computing
 
 Ha construido sistemas serverless y basados en eventos con AWS (Lambda, API Gateway, S3, SNS, SQS, Neptune), programado principalmente en Python y Java, y se apoyo en Docker, Kubernetes y Terraform para automatizar la infraestructura. Ha trabajado con bases de datos relacionales y no relacionales (MongoDB, Neo4j, Neptune), y ha diseñado siguiendo Clean Architecture, arquitectura hexagonal y microservicios.
 Ahora mismo sigue aprendiendo. No olvida sus raíces de machine learning.
