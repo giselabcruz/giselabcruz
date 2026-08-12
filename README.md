@@ -34,11 +34,11 @@
 ## 📜 Extracto de cuenta
 
 > **Titular:** Gisela
-> **Cargo:** Backend Developer
+> **Cargo:** Data Science & Engineering
+> **Focos:** AWS, Big Data, DevOps
 
-Formada en Data Science & Engineering, con el foco puesto en AWS, Big Data y DevOps.
-Construye sistemas serverless y basados en eventos con AWS (Lambda, API Gateway, S3, SNS, SQS, Neptune), programa principalmente en Python y Java, y se apoyo en Docker, Kubernetes y Terraform para automatizar la infraestructura. Ha trabajado con bases de datos relacionales y no relacionales (MongoDB, Neo4j, Neptune), y ha diseñado siguiendo Clean Architecture, arquitectura hexagonal y microservicios.
-Ahora mismo sigue aprendiendo con AWS.
+Ha construido sistemas serverless y basados en eventos con AWS (Lambda, API Gateway, S3, SNS, SQS, Neptune), programado principalmente en Python y Java, y se apoyo en Docker, Kubernetes y Terraform para automatizar la infraestructura. Ha trabajado con bases de datos relacionales y no relacionales (MongoDB, Neo4j, Neptune), y ha diseñado siguiendo Clean Architecture, arquitectura hexagonal y microservicios.
+Ahora mismo sigue aprendiendo. No olvida sus raíces de machine learning.
 
 ---
 
