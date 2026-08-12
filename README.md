@@ -71,5 +71,5 @@ Ahora mismo sigue aprendiendo. No olvida sus raíces de machine learning.
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRwdWZhNHQzMXpycDg5OTIxa24yNHE3NWszb3pnMHZ4ejczZ2dxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wxzOnz3E4b6bWh429x/giphy.gif" width="55"/>
   <br/>
-  <sub><font color="#D4AF37">Gracias por tu visita ⭐</font></sub>
+  <sub><font color="#D4AF37">Gracias por su visita ⭐</font></sub>
 </div>
